@@ -4,7 +4,10 @@ Aspiring SWE based in Toronto, currently working on personal tools and designing
 ![](https://komarev.com/ghpvc/?username=glenn1of1)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/glenn-salvador-57111137b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/glenn-salvador-57111137b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/glenn1of1/)
+![Discord](https://img.shields.io/badge/Discord-iimagmaboii-%235865F2.svg?logo=discord&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-glennrelations%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:glennrelations@gmail.com)
 
 ## 🍀 Goals
 - Continue development of my Discord bot (pressd)
