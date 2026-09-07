@@ -6,5 +6,5 @@ Aspiring SWE currently working on personal tools and designing pipelines.
 ## 🍀 Goals:
 
 ---
-[![](https://komarev.com/ghpvc/?username=glenn1of1&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=glenn1of1)
 
