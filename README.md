@@ -12,6 +12,7 @@ Aspiring SWE based in Toronto, currently working on personal tools and designing
 ## 🍀 Goals
 - Continue development of my Discord bot (pressd)
 - Build out the PC Parts Price Tracker
+- Attend my first Hackathon!
 - Land a co-op / internship at a Canadian bank or tech company for the 2026 cycle
 - Begin my LeetCode journey
 
